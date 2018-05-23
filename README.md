@@ -12,3 +12,5 @@ step 2: download fime named FWMSO2016VL
 安装方法 
 
 http://qcboke.com/post-1802.html
+
+http://blog.51cto.com/ijiang/1706249
