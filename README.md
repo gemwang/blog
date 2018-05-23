@@ -21,3 +21,7 @@ http://blog.51cto.com/ijiang/1706249
 https://v8project.blogspot.hk/2018/05/bigint.html?m=1 
 
 https://developers.google.com/web/updates/2018/05/bigint
+
+limits: 整数型与大整数型
+int a 32-bit signed ［-2,147,483,648 , 2,147,483,647]  2**32-1
+bigint a 32-bit 
