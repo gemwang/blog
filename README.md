@@ -14,3 +14,10 @@ step 2: download fime named FWMSO2016VL
 http://qcboke.com/post-1802.html
 
 http://blog.51cto.com/ijiang/1706249
+
+## JS (Javascript) 
+### Support fot bigints 
+
+https://v8project.blogspot.hk/2018/05/bigint.html?m=1 
+
+https://developers.google.com/web/updates/2018/05/bigint
