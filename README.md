@@ -25,3 +25,6 @@ https://developers.google.com/web/updates/2018/05/bigint
 limits: 整数型与大整数型
 int a 32-bit signed ［-2,147,483,648 , 2,147,483,647]  2**32-1
 bigint a 32-bit 
+
+
+## sublime-text update from 3143 to 3176 and lost lincense 
