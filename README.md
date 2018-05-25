@@ -27,4 +27,5 @@ int a 32-bit signed ［-2,147,483,648 , 2,147,483,647]  2**32-1
 bigint a 32-bit 
 
 
-## sublime-text update from 3143 to 3176 and lost lincense 
+## sublime-text 
+update from 3143 to 3170 (huge change) 3176 and lost lincense 
