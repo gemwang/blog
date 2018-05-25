@@ -29,3 +29,8 @@ bigint a 32-bit
 
 ## sublime-text 
 update from 3143 to 3170 (huge change) 3176 and lost lincense 
+
+see changelog 
+https://www.sublimetext.com/blog/articles/sublime-text-3-point-1 
+
+https://www.sublimetext.com/3
